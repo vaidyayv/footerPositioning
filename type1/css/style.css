@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+}
+.content{
+    background-color: lightslategray;
+}
+.footer{
+    background-color: gray;
+}
+.bottom{
+    position: absolute;
+    bottom: 0;
+    width:100vw
+}
